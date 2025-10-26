@@ -14,7 +14,7 @@ The `head` program prints the first *k* lines of a file to standard output.
 • <k> is the number of lines to print
 • <filename> is the path to the file
 
-### 'tail'
+### `tail`
 The 'tail' program prints the last k lines of a file to standard output.
 It uses a circular buffer to minimize memory usage and supports both text and binary files.
 
